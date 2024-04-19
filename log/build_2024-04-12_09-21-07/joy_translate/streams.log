@@ -1,0 +1,21 @@
+[1.651s] Invoking command in '/home/keime/rosj_ws/src/joy_translate': PYTHONPATH=/home/keime/rosj_ws/build/joy_translate/prefix_override:/home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/joy_translate build --build-base /home/keime/rosj_ws/build/joy_translate/build install --record /home/keime/rosj_ws/build/joy_translate/install.log --single-version-externally-managed install_data
+[2.181s] running egg_info
+[2.182s] writing ../../build/joy_translate/joy_translate.egg-info/PKG-INFO
+[2.183s] writing dependency_links to ../../build/joy_translate/joy_translate.egg-info/dependency_links.txt
+[2.184s] writing entry points to ../../build/joy_translate/joy_translate.egg-info/entry_points.txt
+[2.184s] writing requirements to ../../build/joy_translate/joy_translate.egg-info/requires.txt
+[2.184s] writing top-level names to ../../build/joy_translate/joy_translate.egg-info/top_level.txt
+[2.188s] reading manifest file '../../build/joy_translate/joy_translate.egg-info/SOURCES.txt'
+[2.190s] writing manifest file '../../build/joy_translate/joy_translate.egg-info/SOURCES.txt'
+[2.190s] running build
+[2.191s] running build_py
+[2.192s] running install
+[2.193s] running install_lib
+[2.196s] running install_data
+[2.196s] running install_egg_info
+[2.199s] removing '/home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate-0.0.0-py3.10.egg-info' (and everything under it)
+[2.200s] Copying ../../build/joy_translate/joy_translate.egg-info to /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate-0.0.0-py3.10.egg-info
+[2.202s] running install_scripts
+[2.246s] Installing joy_translate_node script to /home/keime/rosj_ws/install/joy_translate/lib/joy_translate
+[2.248s] writing list of installed files to '/home/keime/rosj_ws/build/joy_translate/install.log'
+[2.293s] Invoked command in '/home/keime/rosj_ws/src/joy_translate' returned '0': PYTHONPATH=/home/keime/rosj_ws/build/joy_translate/prefix_override:/home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/joy_translate build --build-base /home/keime/rosj_ws/build/joy_translate/build install --record /home/keime/rosj_ws/build/joy_translate/install.log --single-version-externally-managed install_data
